@@ -10,6 +10,8 @@ namespace SR_orai_repo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello tesó");
+            Console.ReadKey();
         }
     }
 }
